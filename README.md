@@ -25,6 +25,12 @@ I’m a dedicated and enthusiastic developer with a background in Electronics an
 Punjab Technical University (2018 – 2022)  
 CGPA: 7.85 / 10
 
+12th Grade (Non-Medical)
+Meritorious Senior Secondary School, Mohali | 2019 – 2020 | Score: 91%
+
+10th Grade (All Subjects)
+Govt. High School, Gurhi Sanghar | 2018 – 2019 | Score: 77%
+
 ---
 
 ## 🛠 Projects
@@ -34,6 +40,10 @@ Here are some of the projects I've worked on:
 - **Student Management System** – A Java-based CRUD application using Swing and JDBC.
 - **Online Exam Portal** – Developed in Python, enabling students to register and take timed quizzes.
 - **Portfolio Website** – A personal website showcasing my resume, projects, and contact information.
+- **Frontend E-commerce Project** -Creating a user-friendly interface where customers can browse products, add them to a cart, and proceed to checkout seamlessly.
+- **Frontend E-commerce Project**- reating a user-friendly interface where customers can browse products, add them to a cart, and proceed to checkout seamlessly.
+
+
 
 > Check out more in my repositories!
 
@@ -49,8 +59,8 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect
 
 - 📧 Email: [guri.eng00@gmail.com](mailto:guri.eng00@gmail.com)
-- 💼 LinkedIn: [[linkedin.com/in/gurwinder786](https://linkedin.com/in/gurwinder786)](https://linkedin.com/in/gurwinder786)
-- 🌐 Portfolio: [[[YourPortfolioLink.com](https://gurwinderdeveloper.github.io/gurwinderportfolio/)](https://gurwinderdeveloper.github.io/gurwinderportfolio/)]() 
+- 💼 LinkedIn: [linkedin.com/in/gurwinder786](https://linkedin.com/in/gurwinder786)](https://linkedin.com/in/gurwinder786)
+- 🌐 Portfolio: [https://gurwinderdeveloper.github.io/gurwinderportfolio/](https://gurwinderdeveloper.github.io/gurwinderportfolio/)
 
 ---
 
