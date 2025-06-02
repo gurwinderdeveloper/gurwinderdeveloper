@@ -42,9 +42,8 @@ Here are some of the projects I've worked on:
 - **Portfolio Website** – A personal website showcasing my resume, projects, and contact information.
 - **Frontend E-commerce Project** -Creating a user-friendly interface where customers can browse products, add them to a cart, and proceed to checkout seamlessly.
 - **Frontend E-commerce Project**- reating a user-friendly interface where customers can browse products, add them to a cart, and proceed to checkout seamlessly.
-
-
-
+- **weather app using API-JS** - Responsive weather app that fetches date from open weather API using javascript
+- 
 > Check out more in my repositories!
 
 ---
