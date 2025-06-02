@@ -50,7 +50,7 @@ Here are some of the projects I've worked on:
 
 - 📧 Email: [guri.eng00@gmail.com](mailto:guri.eng00@gmail.com)
 - 💼 LinkedIn: [[linkedin.com/in/gurwinder786](https://linkedin.com/in/gurwinder786)](https://linkedin.com/in/gurwinder786)
-- 🌐 Portfolio: [[YourPortfolioLink.com](https://gurwinderdeveloper.github.io/gurwinderportfolio/)](#) *(Update this with your real portfolio link)*
+- 🌐 Portfolio: [[[YourPortfolioLink.com](https://gurwinderdeveloper.github.io/gurwinderportfolio/)](https://gurwinderdeveloper.github.io/gurwinderportfolio/)]() 
 
 ---
 
