@@ -12,8 +12,8 @@ I’m a dedicated and enthusiastic developer with a background in Electronics an
 
 ## 💼 Technical Skills
 
-- **Languages:** Java, Python, C++, SQL, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Bootstrap, React (learning), Node.js (learning)
+- **Languages:** Java, Python, C++, SQL, JavaScript, HTML, CSS ,React js
+- **Frameworks & Libraries:** Bootstrap, React (learning), Node.js (learning), Tailwind CSS
 - **Tools & Platforms:** Git, GitHub, VS Code, MySQL, Oracle
 - **Soft Skills:** Problem-Solving, Team Collaboration, Continuous Learning
 
@@ -48,9 +48,9 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect
 
-- 📧 Email: [gurwinder10083@gmail.com](mailto:gurwinder10083@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/gurwinder-singh-dev](https://linkedin.com/in/gurwinder-singh-dev)
-- 🌐 Portfolio: [YourPortfolioLink.com](#) *(Update this with your real portfolio link)*
+- 📧 Email: [guri.eng00@gmail.com](mailto:guri.eng00@gmail.com)
+- 💼 LinkedIn: [[linkedin.com/in/gurwinder786](https://linkedin.com/in/gurwinder786)](https://linkedin.com/in/gurwinder786)
+- 🌐 Portfolio: [[YourPortfolioLink.com](https://gurwinderdeveloper.github.io/gurwinderportfolio/)](#) *(Update this with your real portfolio link)*
 
 ---
 
